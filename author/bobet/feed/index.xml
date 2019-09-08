@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bobet &#8211; Riparazioni josephhw</title>
+	<atom:link href="https://josephhw.tk/author/bobet/feed/" rel="self" type="application/rss+xml" />
+	<link>https://josephhw.tk</link>
+	<description>Un nuovo sito di josephhw</description>
+	<lastBuildDate>Fri, 24 May 2019 16:31:52 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.3</generator>
+
+<image>
+	<url>https://josephhw.tk/wp-content/uploads/2019/03/cropped-IMG-20190110-WA0133-1-32x32.jpg</url>
+	<title>bobet &#8211; Riparazioni josephhw</title>
+	<link>https://josephhw.tk</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Benvenuti</title>
+		<link>https://josephhw.tk/2019/03/02/ciao-mondo/</link>
+				<comments>https://josephhw.tk/2019/03/02/ciao-mondo/#respond</comments>
+				<pubDate>Sat, 02 Mar 2019 21:24:13 +0000</pubDate>
+		<dc:creator><![CDATA[bobet]]></dc:creator>
+				<category><![CDATA[Senza categoria]]></category>
+
+		<guid isPermaLink="false">https://josephhw.tk/?p=1</guid>
+				<description><![CDATA[Questo è il mio spazio personale. Potete commentare o lasciare la vostra mail per chiedermi qualsiasi tipo di informazione. Vi risponderò appena possibile. powered by Typeform]]></description>
+								<content:encoded><![CDATA[
+<p>Questo è il mio spazio personale. Potete commentare o lasciare la vostra mail per chiedermi qualsiasi tipo di informazione. Vi risponderò appena possibile.</p>
+
+
+
+<div class="typeform-widget" data-url="https://giuseppe158.typeform.com/to/hKpDZV" style="width: 100%; height: 500px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"> powered by <a href="https://admin.typeform.com/signup?utm_campaign=hKpDZV&#038;utm_source=typeform.com-13058163-Basic&#038;utm_medium=typeform&#038;utm_content=typeform-embedded-poweredbytypeform&#038;utm_term=EN" style="color: #999" target="_blank" rel="noopener noreferrer">Typeform</a> </div>
+]]></content:encoded>
+							<wfw:commentRss>https://josephhw.tk/2019/03/02/ciao-mondo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>
